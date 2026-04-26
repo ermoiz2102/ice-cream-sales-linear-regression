@@ -1,8 +1,11 @@
 # ice-cream-sales-linear-regression
 Simple Linear Regression model to predict ice cream sales based on temperature
+
 🎯 Objective
 To understand how temperature affects ice cream sales
 To build a predictive model using linear regression
+
+
 📂 Dataset
 
 The dataset contains the following features:
